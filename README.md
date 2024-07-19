@@ -3,7 +3,6 @@
 ## Prepare
 
 1. You need to create a `secret` named `DOCKERHUB_TOKEN`
-2. You need to create a `variable` named `DOCKERHUB_USERNAME`
 
 ## TODO
 
