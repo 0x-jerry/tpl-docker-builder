@@ -8,7 +8,7 @@ on:
 jobs:
   docker:
     runs-on: ubuntu-latest
-    env:
+    environment:
       DOCKERHUB_USERNAME: 0xjerry
     steps:
       - name: Checkout
